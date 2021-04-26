@@ -5,7 +5,7 @@
 
 from NrfHidDevice import NrfHidDevice
 
-NORDIC_VID = 0x1915
+NORDIC_VID = 0x33E4
 
 class NrfHidManager():
     TYPE2BOARDLIST = {

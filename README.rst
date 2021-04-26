@@ -1,14 +1,16 @@
-nRF Connect SDK: sdk-nrf
+The SDK of the Gwolf Mouse and Keyboard
 ########################
 
 .. contents::
    :local:
    :depth: 2
 
-This repository contains the Nordic-specific source code additions to open
-source projects (Zephyr RTOS and MCUboot).
-It must be combined with nrfxlib and the repositories that use the same
-naming convention to build the provided samples and to use the additional
+This repository base on the nRF Connect SDK(v1.5.1), and need the development 
+environment from Nordicsemi. This repository contains the specific source 
+code additions to open source projects (nRF Connect SDK, Zephyr RTOS and 
+MCUboot). 
+It must be combined with nrfxlib and the repositories that use the same 
+naming convention to build the provided samples and to use the additional 
 subsystems and libraries.
 
 The following repositories must be combined with sdk-nrf:

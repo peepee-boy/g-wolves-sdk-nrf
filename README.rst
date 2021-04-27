@@ -1,4 +1,4 @@
-The SDK of the Gwolf Mouse and Keyboard
+The SDK of the G-Wolves Mouse and Keyboard
 ########################
 
 .. contents::
@@ -18,6 +18,9 @@ The following repositories must be combined with sdk-nrf:
 * sdk-zephyr
 * sdk-mcuboot
 * nrfxlib
+
+This product is in the developing period, and welcome to join us if you are 
+interested in this project.
 
 Documentation
 *************

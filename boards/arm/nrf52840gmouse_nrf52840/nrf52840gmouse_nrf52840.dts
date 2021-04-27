@@ -91,9 +91,9 @@
 
 &pwm1 {
 	status = "okay";
-	ch0-pin = <23>;
-	ch1-pin = <25>;
-	ch2-pin = <7>;
+	ch0-pin = <39>;
+	ch1-pin = <37>;
+	ch2-pin = <35>;
 };
 
 &flash0 {

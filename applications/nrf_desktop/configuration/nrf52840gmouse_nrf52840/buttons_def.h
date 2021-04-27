@@ -19,8 +19,8 @@ static const struct gpio_pin col[] = {};
 
 static const struct gpio_pin row[] = {
 	{ .port = 0, .pin = 2 },
-	{ .port = 1, .pin = 15 },
 	{ .port = 1, .pin = 14 },
+	{ .port = 1, .pin = 15 },
 	{ .port = 0, .pin = 29 },
 	{ .port = 0, .pin = 31 },
 	{ .port = 0, .pin = 24 },

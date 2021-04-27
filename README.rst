@@ -25,7 +25,7 @@ interested in this project.
 Documentation
 *************
 
-Official documentation at:
+The nRF Connect SDK's Official documentation at:
 
 * Latest: http://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest
 * All versions: http://developer.nordicsemi.com/nRF_Connect_SDK/doc/

@@ -5,22 +5,13 @@ The SDK of the G-Wolves Mouse and Keyboard
    :local:
    :depth: 2
 
-This repository base on the nRF Connect SDK(v1.5.1), and need the development 
-environment from Nordicsemi. This repository contains the specific source 
-code additions to open source projects (nRF Connect SDK, Zephyr RTOS and 
-MCUboot). 
-It must be combined with nrfxlib and the repositories that use the same 
-naming convention to build the provided samples and to use the additional 
-subsystems and libraries.
+PeePeeBoy design a gaming mouse for G-wolves. This mouse used the Nordic solution, design followed the PD of G-wolves. This type mouse selected the newest chipset from Nordic and used the special placement , PCB layout from G-wolves. So the mouse with high performance and we can open the source code to the user for redesigning. The code is demo stage, we will continue to debug it and complete it. Welcome to join us, let us work together to perfect the code.
 
-The following repositories must be combined with sdk-nrf:
+Thanks for Nordic and G-wolves.
 
-* sdk-zephyr
-* sdk-mcuboot
-* nrfxlib
+This code provided shall not to be made available for commercial or for profit use.
 
-This product is in the developing period, and welcome to join us if you are 
-interested in this project.
+Contact list: bussiness@peepee-boy.com;    bussiness@g-wolves.com
 
 Documentation
 *************

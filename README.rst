@@ -11,7 +11,7 @@ Thanks for Nordic and G-wolves.
 
 This code provided shall not to be made available for commercial or for profit use.
 
-Contact list: bussiness@peepee-boy.com;    bussiness@g-wolves.com
+Contact list: business@peepee-boy.com;    business@g-wolves.com
 
 Documentation
 *************
